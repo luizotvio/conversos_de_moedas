@@ -10,5 +10,5 @@
 
 > Status do Projeto: Em desenvolvimento :warning:
 
-> Converte moeda em dolar para real :warning:
+> Converte moeda Bitcoin para Real :warning:
 
