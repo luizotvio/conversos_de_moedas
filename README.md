@@ -10,3 +10,5 @@
 
 > Status do Projeto: Em desenvolvimento :warning:
 
+> Converte moeda em dolar para real :warning:
+
