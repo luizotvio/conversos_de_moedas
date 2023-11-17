@@ -1,7 +1,7 @@
-const  valorEmDolar = prompt("Digite o valor em dolar: ");
+const  valorEmReal = prompt("Digite o valor em Real: ");
 
-const cotacaoDoDolar = 4.86;
+const cotacaoDaBitcoin = 0.0000056;
 
-const valorEmReal = valorEmDolar * cotacaoDoDolar;
+const valorEmBitcoin = valorEmReal * cotacaoDaBitcoin;
 
-alert(`Valor final após a conversão de dolar para real é: R$ ${valorEmReal.toFixed(2)}`);
+alert(`Valor final após a conversão de real para bitcoin é: R$ ${valorEmBitcoin}`);
