@@ -1,4 +1,4 @@
-# Conversos de Moedas
+# Conversor de Moedas
 <p align="justify">Conversor de moedas feito em JS durante a imersão DEV da Alura</p>
 
 <img src="/src/images/conversor_de_moedas.png">
